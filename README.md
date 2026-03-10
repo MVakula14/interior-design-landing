@@ -28,5 +28,7 @@ Responsive landing page for an interior design studio.
 
 ## Live Demo
 
+https://mvakula14.github.io/interior-design-landing/Dananz/
+
 
 
