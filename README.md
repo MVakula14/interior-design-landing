@@ -12,7 +12,7 @@ Responsive landing page for an interior design studio.
 
 * Responsive layout (mobile / tablet / desktop)
 * Modern UI design
-* Smooth scrolling navigation
+* Smooth scrolling
 * Image gallery / portfolio section
 * Burger menu for mobile devices
 
